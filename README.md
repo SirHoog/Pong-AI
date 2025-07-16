@@ -4,7 +4,7 @@
 I used a [Genetic Algorithm](https://www.geeksforgeeks.org/dsa/genetic-algorithms/)
 (a type of evolutionary algorithm) to train neural networks which control paddles in multiple instances of the game Pong running in parallel.
 
-You can customize most aspects of the training process from rewards and penalties to loading and saving neural networks for later use or custom match-making.
+You can customize most aspects of the training process from rewards and penalties to loading and saving neural networks (COMING SOON) for later use or custom match-making.
 
 You can control one the paddles and load in a saved neural network to play against. Or you can load in two AIs you've saved before and have them face off in your own tournament.
 
