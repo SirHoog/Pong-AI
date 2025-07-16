@@ -8,7 +8,7 @@ You can customize most aspects of the training process from rewards and penaltie
 
 You can control one the paddles and load in a saved neural network to play against. Or you can load in two AIs you've saved before and have them face off in your own tournament.
 
-Now, AIs playing might seem basic and boring... and it is... but I've worked hard on this project, so please check it out :sweat_smile:.
+Now, AIs playing pong might seem basic and boring... and it is... but I've worked hard on this project, so please check it out :sweat_smile:.
 ### Why?
 Before this, I've literally never coded a complete, functioning project (only broken parts of ambitious dreams) so I wanted to try something really simple while learning C++ and machine learning at the same time. 
 This was the perfect project to learn, apply my knowledge, and have fun.
